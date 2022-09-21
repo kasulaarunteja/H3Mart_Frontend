@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+
+.logo {
+  height: 80px;
+  margin-bottom: 10px;
+  width: 80px;
+}
+
+.table{ 
+  height: 50px;
+}
+.symbol{
+  height: 10%;
+  width: 10%;
+}
+
+.red {
+  color: #f00606
+}
+
+.green {
+  color: #11d811;
+}

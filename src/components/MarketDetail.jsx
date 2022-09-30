@@ -1,9 +1,6 @@
 import React from "react";
 import "./Navbar.css";
 
-
-
-
 const MarketDetail = () => {
   return (
     <div className="market-cap">
@@ -16,7 +13,6 @@ const MarketDetail = () => {
           EXCHANGE VOL <br /> $55.04B
         </h2>
         <h2>
-
           ASSETS <br /> 2,295
         </h2>
 
@@ -24,11 +20,9 @@ const MarketDetail = () => {
           EXCHANGES <br /> 73
         </h2>
         <h2>
-
           MARKETS <br /> 13,989
         </h2>
         <h2>
-          
           BTC DOM INDEX <br /> 31.7%
         </h2>
       </div>

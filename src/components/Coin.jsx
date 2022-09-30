@@ -11,11 +11,15 @@ const Coin = () => {
 
   const dispatch = useDispatch();
 
+
+
   useEffect(() => {
     dispatch(getData());
   }, [limit]);
 
        
+
+  
 
   return (
     <div>

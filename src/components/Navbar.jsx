@@ -4,6 +4,8 @@ import { FaSearch } from "react-icons/fa";
 import { AiFillSetting } from "react-icons/ai";
 
 const Navbar = () => {
+
+  
   return (
     <div className="nav-div">
       <ul className="u-list">

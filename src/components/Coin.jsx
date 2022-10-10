@@ -10,6 +10,7 @@ const Coin = () => {
   items = items.slice(0, limit);
 
   const dispatch = useDispatch();
+  
 
   useEffect(() => {
     dispatch(getData());

@@ -2,6 +2,8 @@ import React from "react";
 import "./Navbar.css";
 
 const MarketDetail = () => {
+
+  
   return (
     <div className="market-cap">
       <div className="h2-div">
